@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using ConsoleAppWHTest;
+
+Console.WriteLine("Hello, World!");
+MyTestClass.Test();
