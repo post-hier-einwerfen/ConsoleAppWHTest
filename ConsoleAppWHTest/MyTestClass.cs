@@ -6,6 +6,6 @@ namespace ConsoleAppWHTest
 {
     internal class MyTestClass
     {
-        public static void Test() => Console.WriteLine("test123");
+        public static void Test() => Console.WriteLine("test1234");
     }
 }
