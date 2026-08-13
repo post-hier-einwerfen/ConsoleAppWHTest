@@ -6,5 +6,6 @@ namespace ConsoleAppWHTest
 {
     internal class SecondClass
     {
+
     }
 }
